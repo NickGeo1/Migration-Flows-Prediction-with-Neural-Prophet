@@ -17,6 +17,6 @@ The metrics we used to evaluate the models are MAE normalised by the range of va
 ![εικόνα](https://github.com/NickGeo1/Migration-Flows-Prediction-with-Neural-Prophet/assets/60719667/957cc48b-648c-4bc3-819b-2bda9fa42d15) <br>
 ![εικόνα](https://github.com/NickGeo1/Migration-Flows-Prediction-with-Neural-Prophet/assets/60719667/f90a9ec4-57c4-4bad-a68e-cc6b2489f3e6)
 
-
-
 The dataset can be found at "balkan_route.xlsx" file.
+
+Some train-test forecast examples for both approaches can be observed at "Forecasts.pdf"
